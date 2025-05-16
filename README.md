@@ -22,7 +22,7 @@ An interactive and modern Quiz Application built with React. The app offers a cl
  Clone the repository
 
 bash
-git clone https://github.com/your-username/quiz-app.git
+git clone
 cd quiz-app
 
 Install dependencies
