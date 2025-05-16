@@ -38,7 +38,7 @@ npm start
 
 The app will run at `http://localhost:3000`
 
- 📌 Folder Structure (if simple)
+ 📌 Folder Structure
 quiz-app/
 ├── public/
 │ └── index.html
